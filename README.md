@@ -1,2 +1,17 @@
 # Jogo
-Jogador x Oponente
+                                                                                                                        
+                                                      Jogador x Oponente
+                                                      
+
+O Jogador e o Oponente começam com 100 pontos de vida cada, e no jogo existem três botões que são, Ataque, Curar e reinicar.
+  
+  Ataque: Faz um calculo de um valor aleatório entre 2 e 10 e diminui dos pontos de vida do Oponente.
+  
+  Curar:  Faz um calculo de um valor aleatório entre 3 e  7 e soma aos pontos de vida do Jogador,o mesmo só pode ser acionado quando os     pontos de vida do Jogador for menor que 100.
+  
+  Reiniciar: Reinicia o jogo a qualquer momento que é presionado.
+
+Sempre que for acionado o botão Ataque ou Curar, será realizado um calculo de um valor aleatório entre 1 e 8 que é o ataque do Oponente e deduzir dos pontos do Oponente.
+
+O Jogo termina quando um dos adversáros estiverem com os pontos menor ou igual a zero e ganha quem tiver mais pontos!
+
